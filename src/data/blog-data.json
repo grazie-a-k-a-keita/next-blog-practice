@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "title": "Exploring React Hooks",
+    "content": "React Hooks provide a powerful way to hook into React features without writing a class. This is a deep dive into how to use them effectively in your projects.",
+    "user": "Alice Johnson",
+    "updatedAt": "2023-04-01"
+  },
+  {
+    "id": "2",
+    "title": "Understanding Redux in 2023",
+    "content": "Redux remains a key player in the React ecosystem. This article explores its current state and how it fits into modern web development.",
+    "user": "Bob Smith",
+    "updatedAt": "2023-04-02"
+  },
+  {
+    "id": "3",
+    "title": "TypeScript for Beginners",
+    "content": "TypeScript adds static typing to JavaScript, making it easier to write robust code. Here's a beginner's guide to getting started.",
+    "user": "Charlie Davis",
+    "updatedAt": "2023-04-03"
+  },
+  {
+    "id": "4",
+    "title": "Advanced CSS Techniques",
+    "content": "Dive into advanced CSS techniques that can help you create more visually appealing web pages.",
+    "user": "Dana Lee",
+    "updatedAt": "2023-04-04"
+  },
+  {
+    "id": "5",
+    "title": "Building a REST API with Node.js",
+    "content": "Node.js makes it easy to build scalable network applications. This guide covers building a REST API using Node.js.",
+    "user": "Evan Wright",
+    "updatedAt": "2023-04-05"
+  },
+  {
+    "id": "6",
+    "title": "Getting Started with GraphQL",
+    "content": "GraphQL is a query language for APIs. Learn how to get started with GraphQL in this introductory guide.",
+    "user": "Fiona Green",
+    "updatedAt": "2023-04-06"
+  },
+  {
+    "id": "7",
+    "title": "Vue.js vs React: A Comparison",
+    "content": "Vue.js and React are two of the most popular JavaScript frameworks. This article compares them to help you decide which one to use.",
+    "user": "George Hall",
+    "updatedAt": "2023-04-07"
+  },
+  {
+    "id": "8",
+    "title": "Introduction to Docker",
+    "content": "Docker is a platform for developing, shipping, and running applications. Here's an introduction to Docker and how to use it.",
+    "user": "Hannah Scott",
+    "updatedAt": "2023-04-08"
+  },
+  {
+    "id": "9",
+    "title": "Web Accessibility Fundamentals",
+    "content": "Making your web applications accessible is crucial. This guide covers the fundamentals of web accessibility.",
+    "user": "Ian Reed",
+    "updatedAt": "2023-04-09"
+  },
+  {
+    "id": "10",
+    "title": "SEO Best Practices for Web Developers",
+    "content": "SEO is essential for any website. This article covers best practices for web developers to improve SEO.",
+    "user": "Jane Foster",
+    "updatedAt": "2023-04-10"
+  },
+  {
+    "id": "11",
+    "title": "The Future of Web Development",
+    "content": "Web development is constantly evolving. This article explores the future trends and technologies in web development.",
+    "user": "Kyle Morris",
+    "updatedAt": "2023-04-11"
+  },
+  {
+    "id": "12",
+    "title": "Introduction to WebAssembly",
+    "content": "WebAssembly allows code written in languages other than JavaScript to run on the web. Learn more about it in this guide.",
+    "user": "Laura Young",
+    "updatedAt": "2023-04-12"
+  },
+  {
+    "id": "13",
+    "title": "Building Mobile Apps with React Native",
+    "content": "React Native enables you to build mobile apps using only JavaScript. This article provides an overview of React Native.",
+    "user": "Miguel Sanchez",
+    "updatedAt": "2023-04-13"
+  },
+  {
+    "id": "14",
+    "title": "Serverless Computing Explained",
+    "content": "Serverless computing allows you to build and run applications without thinking about servers. Here's what you need to know.",
+    "user": "Nina Patel",
+    "updatedAt": "2023-04-14"
+  },
+  {
+    "id": "15",
+    "title": "Effective Debugging Techniques",
+    "content": "Debugging is a crucial skill for any developer. This guide covers effective techniques for debugging your code.",
+    "user": "Omar Khan",
+    "updatedAt": "2023-04-15"
+  },
+  {
+    "id": "16",
+    "title": "The Basics of Git and GitHub",
+    "content": "Git and GitHub are essential tools for modern developers. This article covers the basics of using Git and GitHub.",
+    "user": "Patricia Lee",
+    "updatedAt": "2023-04-16"
+  },
+  {
+    "id": "17",
+    "title": "Responsive Web Design Principles",
+    "content": "Responsive web design is essential for creating websites that work on any device. This guide covers the principles of responsive design.",
+    "user": "Quinn Martinez",
+    "updatedAt": "2023-04-17"
+  },
+  {
+    "id": "18",
+    "title": "Introduction to Cybersecurity",
+    "content": "Cybersecurity is increasingly important. This introductory guide covers the basics of protecting your applications from threats.",
+    "user": "Rachel Kim",
+    "updatedAt": "2023-04-18"
+  },
+  {
+    "id": "19",
+    "title": "Using Web Components",
+    "content": "Web Components allow for the creation of reusable custom elements. Learn how to use them in your web projects.",
+    "user": "Steve Brown",
+    "updatedAt": "2023-04-19"
+  },
+  {
+    "id": "20",
+    "title": "Exploring the Jamstack",
+    "content": "The Jamstack is a modern web development architecture. This article explores how to build websites with the Jamstack.",
+    "user": "Tina White",
+    "updatedAt": "2023-04-20"
+  }
+]
